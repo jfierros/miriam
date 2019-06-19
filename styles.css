@@ -1,0 +1,13 @@
+body {
+  background-color: orange;
+
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px
+}
+img{
+  display: inline-block;
+  margin-left:10%;
+  margin-right:50%;
+}
